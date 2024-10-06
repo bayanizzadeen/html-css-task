@@ -63,7 +63,9 @@
     border:1px solid black;
      }
 
-.About-Me{background-color: #0085ff;}
+.About-Me{background-color: #0085ff; 
+    border:1px solid #0085ff;
+}
 .labelss{  width:150px ; height:29px ; color: #ffffff; }
     
 .Email{background-color:  #0085FF;}
